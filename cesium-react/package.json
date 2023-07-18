@@ -6,6 +6,7 @@
     "@craco/craco": "^5.7.0",
     "@hot-loader/react-dom": "^17.0.0-rc.2",
     "cesium": "^1.94.3",
+    "cesium-react": "^0.2.2",
     "craco-cesium": "^1.2.0",
     "craco-plugin-react-hot-reload": "^0.1.0",
     "react": "^16.13.1",
